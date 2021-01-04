@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://nadavro1:nadavro1@clustergreen.wg1vy.mongodb.net/greeninvoice?retryWrites=true&w=majority"
+}
